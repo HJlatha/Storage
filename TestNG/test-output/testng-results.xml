@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16376" started-at="2022-05-07T09:40:19 IST" finished-at="2022-05-07T09:40:36 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16376" started-at="2022-05-07T09:40:19 IST" finished-at="2022-05-07T09:40:36 IST">
+      <class name="TestScript.Test">
+        <test-method status="PASS" signature="OpenApp()[pri:0, instance:TestScript.Test@1f57539]" name="OpenApp" is-config="true" duration-ms="13861" started-at="2022-05-07T09:40:19 IST" finished-at="2022-05-07T09:40:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:TestScript.Test@1f57539]" name="test" duration-ms="1114" started-at="2022-05-07T09:40:33 IST" finished-at="2022-05-07T09:40:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:TestScript.Test@1f57539]" name="CloseApp" is-config="true" duration-ms="1364" started-at="2022-05-07T09:40:34 IST" finished-at="2022-05-07T09:40:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- TestScript.Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
